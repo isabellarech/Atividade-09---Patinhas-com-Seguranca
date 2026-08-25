@@ -2,7 +2,7 @@
 
 $host = "localhost";
 $usuario = "root";
-$senha = "";
+$senha = "root";
 $banco = "patinhas_com_seguranca_db";
 
 $conexao = new mysqli($host, $usuario, $senha, $banco);
